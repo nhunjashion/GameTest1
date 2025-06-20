@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2671cde499586704d90edf3b1e565a55
+  m_SerializeEntries:
+  - m_GUID: 15775db7b6e80da4ca4cd81db5e28d5c
+    m_Address: Assets/Prefabs/Popups/PopupSetting.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21c6f6972b329fe4ab094f3a4e0e1b8e
+    m_Address: Assets/Prefabs/Popups/PopupConfirm.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73babcbae453b734e86fb5541f20206b
+    m_Address: Assets/Prefabs/Popups/Toast.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb930e12f10115d46a7831c0b667e339
+    m_Address: Assets/Prefabs/Popups/Inventory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a5436d81e53301e4298fb77cecd7a4b4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3824e0b4624c2a3488ffbb91d26cc8be, type: 2}
+    - {fileID: 11400000, guid: e44b1cd69e9084842b32b35b5f7f582b, type: 2}
